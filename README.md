@@ -6,7 +6,7 @@ The goal of Project 1 of the Full Stack Software Engineering Immersive bootcamp 
 
 I decided to make Blackjack as I have played blackjack games in the past and it seemed like a challange to code not only the game logic but the visuals. We only had one week to complete and the time frame made it much more challenging. Overall it was a fun first project to put together all the basics and also do some research to add content that we did not talk about in class, such as the Casino home which is a sudo 3D experience.
 
-### <a hfre="https://amcculley222.github.io/Blackjack-Project1/">Link to the Game</a>
+### <a href="https://amcculley222.github.io/Blackjack-Project1/">Link to the Game</a>
 
 ## Game
 
