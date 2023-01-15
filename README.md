@@ -25,8 +25,10 @@ This casino was interesting idea I had to expand on in the future to make it a 3
 ### Play Blackjack
 
 <img src="./image/Play.png">
-Here is the game, you start with $100 and can bet on each hand. All the normal blackjack rules apply. Closest to 21 with out going over wins. The player is the top row of cards and the dealer is the bottom. 
-Once you press "stand" the dealer will continue to hit until they are at least at 17. 
+<img src="./image/bust.png">
+
+Here is the game, you start with $100 and can bet on each hand. All the normal blackjack rules apply. Closest to 21 with out going over wins. The player is the top row of cards and the dealer is the bottom.
+Once you press "stand" the dealer will continue to hit until they are at least at 17.
 Then the game will decide the winner and award or take the money.
 
 ## Challenges
